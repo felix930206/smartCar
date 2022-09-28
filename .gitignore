@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+
+# IDE Config files
+LeapMotionDriverWindow/.vs
+
+# Compiler Output
+LeapMotionDriverWindow/bin
+# Compiler Temp File
+LeapMotionDriverWindow/obj
